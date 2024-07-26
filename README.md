@@ -15,13 +15,7 @@ I'm a WebGIS enthusiast with a passion for creating interactive and visually app
 - Modern front-end frameworks for building responsive GIS applications
 - Performance optimization for large-scale geospatial data rendering
 
-## 💞️ I'm looking to collaborate on ...
-- Open-source WebGIS projects
-- Innovative geospatial visualization tools
-- Front-end solutions for GIS platforms
-- Anything that combines maps, data, and beautiful user interfaces!
-
-## 📫 How to reach me ...
-- [Your preferred contact method, e.g., email or LinkedIn profile]
+## 📫I have a private blog: 
+- Check out my blog: [fcnote](https://fcnote.com/)
 
 Feel free to explore my repositories and don't hesitate to reach out if you're interested in collaborating on exciting WebGIS projects!
